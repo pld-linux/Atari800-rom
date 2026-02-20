@@ -6,7 +6,7 @@ Summary:	ROM files for Atari 800 Emulator
 Summary(pl.UTF-8):	Pliki ROM dla emulatora Atari 800
 Name:		Atari800-rom
 Version:	0
-Release:	1
+Release:	2
 # xf25.zip file is distributable if ZIP contents are unmodified
 # so ROMs probably can be redistributed only in original XF25 archive
 %if %{with nondist}
